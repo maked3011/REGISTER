@@ -1,0 +1,43 @@
+body{
+    margin: 20px;
+}
+/* Классы */
+div.container {
+    border: 1px solid green;
+    padding: 5px;
+    margin: 5px
+}
+
+/* АйДишники */
+#heading{
+    display: flex;
+}
+
+#menu{
+    display: flex;
+    margin-left:auto;
+}
+
+#workspace{
+    display: flex;
+}
+
+#findField{
+    margin-top:30px;
+    pading: 10px;
+}
+
+#newStudent {
+    display: none;
+}
+
+/* Кнопки, поля ввода*/
+input{
+    margin-bottom: 5px;
+}
+
+#menuButton{
+    font-size: 25px;
+    width: 150px;
+    text-align: center;
+}
